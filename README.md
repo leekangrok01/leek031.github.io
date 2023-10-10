@@ -21,3 +21,12 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - 推奨エンジンおよびアドバタイズメント プラットフォーム（SSP、 DSP) アーキテクチャ設計
 - ILT - Cloudera カスタムトレーニング - 2970368 (2022 Hadoop & Spark Specialist)
 - お客様の満足度及びプロフェッショナルな情熱を大切なことだと思います。引き続きよろしくお願い致します。
+
+
+#Publication
+https://atna-mam.utcluj.ro/index.php/Acta/article/view/1394
+https://dblp.org/pid/99/4098.html
+Kangrok Lee, Jaemin Shim, Jinyong Kim,"SOFTWARE ENGINEERING PERFORMANCE AND QUALITY ASSESSMENT BY TRIZ", ACTA TECHNICA NAPOCENSIS - Series: APPLIED MATHEMATICS, MECHANICS, and ENGINEERING, Vol 63, No 3S, 2020
+Kangrok Lee, Kang Ryoung Park, Sanghoon Lee, Jaihie Kim, "Multi-unit Biometric Fusion in Fingerprint Verification", LNCS on International Conference on Biometric Authentication, Springer-Verlag, July, 2004
+Kangrok Lee, Kang Ryoung Park Jain Jang, Sanghoon Lee, Jaihie Kim, "A Study on Multi-unit Fingerprint Verification", Audio- and Video-Based Biometric Person Authentication (LNCS), Springer Verlag, July, 2005
+
