@@ -1,7 +1,7 @@
 # leek031.github.io
 # Kangrok Lee
 
-I'm Principal Data Architect at Rakuten Group, Inc. Japan. focusing on big data plaform based on hybrid architecture. 
+I'm Senior Technology Architect at Rakuten Group, Inc. Japan. focusing on big data plaform based on hybrid architecture. 
 I received MS Degree in Electonrics and Electrical Engineering at Yonsei University, Korea. Previously I worked at Samsung Electronics, Inc. Korea for 12 years. As Senior Engineer, there were miscellaneous data projects for Samsung Smart TV. 
 
 - Best professional S/W development with 19 year's experiences
