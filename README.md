@@ -11,6 +11,8 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - Recommendation engine and advertisement platform (SSP, DSP) architecture design
 - ILT - Cloudera Custom Training - 2970368 ( 2022 Hadoop & Spark Specialist)
 - Customer Satisfaction, Passionately Professional
+- Professional Cloud Network Engineer, Professional Cloud Devops Engineer, Professional Machine Learning
+Engineer Certification ( Google Cloud, 2023/07/25, 2024/03/20, 2025/03/20 )
 
 ~ 私は日本楽天グループのチーフデータアーキテクトです。 ハイブリッドアーキテクチャに基づくビッグデータプラットフォームに焦点を当てています。 私は韓国の延世大学で電子工学の修士号を取得しました。 以前、私は韓国のサムスン電子で12年間働きました。 シニアエンジ~ニアとしてサムスンスマートTVのための様々なデータプロジェクトを経験しました。
 
@@ -20,4 +22,6 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - 韓国勤務12年、日本勤務7年（永住権、JLPT N2証明書）
 - 推奨エンジンおよびアドバタイズメント プラットフォーム（SSP、 DSP) アーキテクチャ設計
 - ILT - Cloudera カスタムトレーニング - 2970368 (2022 Hadoop & Spark Specialist)
+- Professional Cloud Network Engineer, Professional Cloud Devops Engineer, Professional Machine Learning
+Engineer Certification ( Google Cloud, 2023/07/25, 2024/03/20, 2025/03/20 )
 - お客様の満足度及びプロフェッショナルな情熱を大切なことだと思います。引き続きよろしくお願い致します。
